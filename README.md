@@ -72,3 +72,11 @@ title of "Your favicon/page name?"
                      <h4>section title</h4>
                      <h5></h5>
                      <h6></h6>
+                                  
+                                  the Character set of utf - 8
+
+description of "My first page that can be found by google"
+
+keywords of "web design, meta tags"
+
+title of "Your favicon/page name?"
